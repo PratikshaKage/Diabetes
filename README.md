@@ -1,1 +1,3 @@
-# Diabetes
+The project aims to predict whether a patient is diabetic or not using the Support Vector Machine (SVM) algorithm. The dataset used in this project is the Pima Indians Diabetes Dataset. The dataset contains 768 observations with 8 input variables and 1 output variable. The input variables include the number of pregnancies, glucose concentration, blood pressure, skin thickness, insulin level, body mass index (BMI), diabetes pedigree function, and age. The output variable is binary and indicates whether the patient is diabetic or not.
+
+The SVM algorithm was used to train the model. The model was trained on 80% of the dataset and tested on the remaining 20%. The accuracy of the model on training dataset is 78% whereas that on testing dataset is 77%.
